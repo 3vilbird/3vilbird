@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Message driven architecture BBQ-case study](https://github.com/3vilbird/BBQ-Message-Driven-Microservice)
+
 ![Redis with dotnet core](https://github.com/3vilbird/REDIS_WITH_DOTNET_CORE_6)
