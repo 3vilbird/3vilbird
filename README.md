@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ganapati-marathi-925b0b172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganapati-marathi-925b0b172/" height="30" width="40" /></a>
 <a href="https://instagram.com/3vilbird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3vilbird" height="30" width="40" /></a>
-<a href="https://medium.com/@3vilbird" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3vilbird" height="30" width="40" /></a>
+<a href="https://medium.com/@mdganapati007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@3vilbird" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/mdganapati?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mdganapati?hr_r=1" height="30" width="40" /></a>
 </p>
 
