@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3vilbird&show_icons=true&locale=en" alt="3vilbird" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3vilbird&" alt="3vilbird" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3vilbird&theme=dark&hide_border=true&border_radius=10.3&card_width=483" alt="3vilbird" /></p>
 
